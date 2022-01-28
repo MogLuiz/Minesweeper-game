@@ -1,0 +1,26 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Minesweeper game",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MogLuiz/Minesweeper-game.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Luiz Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MogLuiz/Minesweeper-game/issues"
+  },
+  "homepage": "https://github.com/MogLuiz/Minesweeper-game#readme"
+}
