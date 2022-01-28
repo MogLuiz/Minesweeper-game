@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/MogLuiz/Minesweeper-game/issues"
   },
-  "homepage": "https://github.com/MogLuiz/Minesweeper-game#readme"
+  "homepage": "https://github.com/MogLuiz/Minesweeper-game#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
